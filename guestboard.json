@@ -1,0 +1,11 @@
+[
+  {
+    "id": "bfb8f544-037f-430d-bc30-ea9ded08acde",
+    "name": "김세진",
+    "message": "너무 좋아요!",
+    "password_hash": "8f0fa0e2f6acabefd9df2647f98076d802de5e43af9713b986d4b753ece9b6a5",
+    "salt": "1c671b305300fcc9",
+    "ip": "121.190.44.133",
+    "created_at": "2026-09-16 07:10"
+  }
+]
